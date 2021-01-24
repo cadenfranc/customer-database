@@ -87,7 +87,7 @@ def update_customer():
     name = input("Name: ")
     email = input("Email: ")
     values = (email, name)
-    cursor.execute("UPDATE employees SET email = ? WHERE name = ?", values)
+    cursor.execute("UPDATE customers SET email = ? WHERE name = ?", values)
     connection.commit()
 
 
