@@ -12,7 +12,7 @@ The program is designed with the intention to store, and allow for the retrieval
 
 For a walkthrough of the code and a demonstration of the software, click on the hyperlink below:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/fJdviLkHLGU)
 
 # Relational Database
 
